@@ -14,8 +14,8 @@ def eps_growth_rate(eps_final: float, eps_initial: float, n: int) -> float:
         EPS Growth rate = 8.82%
 
     Args:
-        previous_revenue (float): Previous period's revenue.
-        current_revenue (float): Current period's revenue.
+        eps_final (float): Previous period's revenue.
+        eps_initial (float): Current period's revenue.
         n (int): Number of periods.
 
     Returns:
